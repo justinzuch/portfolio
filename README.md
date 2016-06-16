@@ -16,4 +16,4 @@
     * Includes wire-framing and prototype.
     * Have it have a workflow type feel.
 
-> Note: Goal is to have a documented process of how the portfolio project was done. This includes technologies. There's no need to necessarily have some things in there, like JavaScript. All changes and updates will be on version control so that anyone can see what the process looks like. All future projects should look like this to see what improvements should be made.
+>> Note: Goal is to have a documented process of how the portfolio project was done. This includes technologies. There's no need to necessarily have some things in there, like JavaScript. All changes and updates will be on version control so that anyone can see what the process looks like. All future projects should look like this to see what improvements should be made.
