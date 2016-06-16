@@ -9,7 +9,7 @@
 * Document full process including technologies and applications.
 
 
-#### From Evernote ####
+**Previous Notes**
 > Goals
 * Use Git to deploy the portfolio to hosting.
 * Document the process in a repository on GitHub.
